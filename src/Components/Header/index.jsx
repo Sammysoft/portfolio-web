@@ -4,7 +4,7 @@ import React from "react";
 const Header = ()=>{
     return(
         <>
-               <header className="masthead bg-primary text-white text-center">
+               <header className="masthead  text-white text-center">
             <div className="container d-flex align-items-center flex-column">
                 {/* <!-- Masthead Avatar Image--> */}
                 <img className="masthead-avatar mb-5" src="assets/images/pics.jpeg" alt="..." />

@@ -2,7 +2,7 @@ import React from 'react';
 import NavBar from '../Components/Navbar/index';
 import Footer  from '../Components/Footer/index';
 
-const AnotherPage = ()=>{
+const AboutPage = ()=>{
 return(
     <>
         <NavBar />
@@ -98,4 +98,4 @@ return(
 )
 }
 
-export default AnotherPage;
+export default AboutPage;
