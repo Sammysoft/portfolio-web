@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Zilla+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Hentaigana+Akebono&display=swap');
+
+*{
+    font-family: 'Comfortaa';
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #1e851e;
+    color: white;
+    padding: 2%;
+    width: 100%;
+    height: auto;
+    font-family: 'Yuji Hentaigana Akebono';
+}
+
+.carousel{
+    height: 45vh;
+}
+.nav-list{
+    display: block;
+    position: fixed;
+    top: 10%;
+    right: 10%;
+    margin: auto;
+    z-index: 9999;
+    width: auto;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+}
+#menu-list-wrapper{
+    margin-left: 2px;
+}
+#menu-list-item{
+    padding: 1vh;
+    margin-top: 8vh;
+    font-weight: bolder;
+    font-family: 'Comfortaa'
+}
+.nav-item{
+    list-style: none;
+    text-decoration: none;
+    display: block;
+    padding: 30px;
+    background-color: #1e851e;
+}
+
+.body-wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    align-items: left;
+    flex-direction: row;
+
+    height:auto;
+}
+.carousel{
+    flex: 3;
+}
+.body-menu{
+    flex: 1;
+    background-color: #1e851e;
+    width: 25vw;
+    height: 90vh;
+    color: white;
+    text-align: left;
+    padding-top: 3vw ;
+}
+
+
+
+@media screen and (max-width:500px) {
+    .body-menu{
+        flex: 1;
+        background-color: #1e851e;
+        width: 25vw;
+        height: 90vh;
+        color: white;
+        text-align: left;
+        padding-top: 3vw ;
+        text-transform: capitalize;
+        font-size: 20px;
+        align-items: left;
+    }
+    .body-menu li{
+        padding: 1vh;
+    }
+    #menu-list-wrapper{
+        margin-left: 2px;
+    }
+    #menu-list-item{
+        padding: 1vh;
+        margin-top: 6vh;
+        font-weight: bolder;
+        font-family: 'Comfortaa';
+        font-size: 8px;
+        text-transform: capitalize;
+    }
+    .carousel{
+        flex: 2;
+    }
+    .body-menu{
+        flex: 1;
+        background-color: #1e851e;
+        width: 25vw;
+        height: 82vh;
+        color: white;
+        text-align: left;
+        padding-top: 3vw ;
+    }
+
+}
