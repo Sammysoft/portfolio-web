@@ -22,7 +22,7 @@ const portfolio5=()=>{
                             <div className="row justify-content-center">
                                 <div className="col-lg-8">
 
-                                    <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
+                                    <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Smiles On The Faces Of Benue Citizens</h2>
 
                                     <div className="divider-custom">
                                         <div className="divider-custom-line"></div>
@@ -32,7 +32,7 @@ const portfolio5=()=>{
 
                                     <img className="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." />
 
-                                    <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p className="mb-4">The Good people of Benue has the priviledge to earn a good living and live a life of peace and Harmony, hereby creating a legacy for the children among us as there lead the future</p>
                                     <button className="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i className="fas fa-times fa-fw"></i>
                                         Close Window

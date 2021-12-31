@@ -21,7 +21,7 @@ const portfolio3 =()=>{
                             <div className="row justify-content-center">
                                 <div className="col-lg-8">
 
-                                    <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Controller</h2>
+                                    <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Benue Is Blessed!</h2>
 
                                     <div className="divider-custom">
                                         <div className="divider-custom-line"></div>
@@ -31,7 +31,7 @@ const portfolio3 =()=>{
 
                                     <img className="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
 
-                                    <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p className="mb-4">Availability of Jobs for All Citizens within the working age group will ensure there are limited or no discrimination between citizens based on fanacial bouyancy. Benue Is Blessed!</p>
                                     <button className="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i className="fas fa-times fa-fw"></i>
                                         Close Window

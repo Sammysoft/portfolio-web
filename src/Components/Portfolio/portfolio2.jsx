@@ -21,7 +21,7 @@ const portfolio2 =()=>{
                             <div className="row justify-content-center">
                                 <div className="col-lg-8">
 
-                                    <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Locked Safe</h2>
+                                    <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Safety</h2>
 
                                     <div className="divider-custom">
                                         <div className="divider-custom-line"></div>
@@ -31,7 +31,7 @@ const portfolio2 =()=>{
 
                                     <img className="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="..." />
 
-                                    <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p className="mb-4">It is a Blesing for one to sleep at night and wake up the following day knowing for sure that someone is got your back. Life Should be that simple and easy. Such is the plans for the people of Benue State and Nigeria at large</p>
                                     <button className="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i className="fas fa-times fa-fw"></i>
                                         Close Window

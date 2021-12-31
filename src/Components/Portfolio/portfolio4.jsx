@@ -21,7 +21,7 @@ const portfolio4=()=>{
                             <div className="row justify-content-center">
                                 <div className="col-lg-8">
 
-                                    <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent</h2>
+                                    <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Sincere Policies</h2>
 
                                     <div className="divider-custom">
                                         <div className="divider-custom-line"></div>
@@ -31,7 +31,7 @@ const portfolio4=()=>{
 
                                     <img className="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
 
-                                    <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p className="mb-4">The Policy set for the citizens of Benue State is one geared towards improving the standard of livelyhood. An Achievable means of sustainability both for the young and old alike.</p>
                                     <button className="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i className="fas fa-times fa-fw"></i>
                                         Close Window

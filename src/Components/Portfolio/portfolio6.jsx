@@ -9,7 +9,7 @@ const portfolio6=()=>{
                             <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img className="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
+                            <img className="img-fluid" src="assets/images/pics.jpeg" alt="..." />
                         </div>
                     </div>
 
@@ -22,7 +22,7 @@ const portfolio6=()=>{
                             <div className="row justify-content-center">
                                 <div className="col-lg-8">
 
-                                    <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Log Cabin</h2>
+                                    <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">A Political Icon</h2>
 
                                     <div className="divider-custom">
                                         <div className="divider-custom-line"></div>
@@ -30,9 +30,9 @@ const portfolio6=()=>{
                                         <div className="divider-custom-line"></div>
                                     </div>
 
-                                    <img className="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
+                                    <img className="img-fluid rounded mb-5" src="assets/images/pics.jpeg" alt="..." />
 
-                                    <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p className="mb-4">My Primary Aim is to be a typical Representative of the masses, fight for their rights and entitlements. An example for the generations to come.</p>
                                     <button className="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i className="fas fa-times fa-fw"></i>
                                         Close Window
