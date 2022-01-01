@@ -8,7 +8,7 @@ const portfolio3 =()=>{
                             <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img className="img-fluid" src="assets/img/portfolio/game.png" alt="..." />
+                            <img className="img-fluid" src="assets/images/pics5.jpeg" alt="..." style={{height: "260px", Width: "100%"}}/>
                         </div>
                     </div>
 
@@ -29,7 +29,7 @@ const portfolio3 =()=>{
                                         <div className="divider-custom-line"></div>
                                     </div>
 
-                                    <img className="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
+                                    <img className="img-fluid rounded mb-5" src="assets/images/pics5.jpeg" alt="..." />
 
                                     <p className="mb-4">Availability of Jobs for All Citizens within the working age group will ensure there are limited or no discrimination between citizens based on fanacial bouyancy. Benue Is Blessed!</p>
                                     <button className="btn btn-primary" href="#!" data-bs-dismiss="modal">
