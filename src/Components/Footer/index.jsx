@@ -11,10 +11,10 @@ const Footer =()=>{
 
                     <div className="col-lg-4 mb-5 mb-lg-0">
                         <h4 className="text-uppercase mb-4">Location</h4>
-                        <p className="lead mb-0">
-                            2215 John Daniel Drive
+                        <p className="lead mb-0" style={{fontFamily: "Raleway"}}>
+                            Makurdi
                             <br />
-                            Clark, MO 65243
+                            Benue State, Nigeria
                         </p>
                     </div>
 
@@ -28,9 +28,9 @@ const Footer =()=>{
 
                     <div className="col-lg-4">
                         <h4 className="text-uppercase mb-4">About Hon. Blessing Onuh</h4>
-                        <p className="lead mb-0">
+                        <p className="lead mb-0" style={{fontFamily: "Vujahday Script"}}>
                         For more inquiries about Hon. Blessing Onuh's Achievements
-                            <a href="/about">See More</a>
+                            <a href="/about"> See More</a>
                             .
                         </p>
                     </div>

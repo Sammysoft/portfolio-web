@@ -17,7 +17,7 @@ const Header = ()=>{
                     <div className="divider-custom-line"></div>
                 </div>
                 {/* <!-- Masthead Subheading--> */}
-                <p className="masthead-subheading font-weight-light mb-0">Representing Otukpo/Ohimini Federal Constituency of Benue State, Nigeria</p>
+                <p className="masthead-subheading font-weight-light mb-0" style={{fontFamily: "Vujahday Script"}}>Representing Otukpo/Ohimini Federal Constituency of Benue State, Nigeria</p>
             </div>
         </header>
         </>

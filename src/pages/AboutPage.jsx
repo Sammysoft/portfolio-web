@@ -19,14 +19,14 @@ return(
                 </div>
 
                 <div className="row">
-                    <div className="col-lg-4 ms-auto"><p className="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div className="col-lg-4 me-auto"><p className="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                    <div className="col-lg-4 ms-auto" style={{fontFamily: "Raleway"}}><p className="lead">Short Background Bio about Honorable Blessing Onuh</p></div>
+                    <div className="col-lg-4 me-auto" style={{fontFamily: "Vujahday Script"}}><p className="lead">Representing Otukpo/Ohimini Federal Constituency of Benue State, Nigeria</p></div>
                 </div>
 
                 <div className="text-center mt-4">
                     <a className="btn btn-xl btn-outline-light" href="/">
-                        <i className="fas fa-download me-2"></i>
-                        Free Download!
+                        <i className="fas fa-search me-2"></i>
+                        See more
                     </a>
                 </div>
             </div>

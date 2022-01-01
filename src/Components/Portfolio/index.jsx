@@ -18,7 +18,7 @@ const portfolios = ()=>{
                     <div className="divider-custom-icon"><i className="fas fa-star"></i></div>
                     <div className="divider-custom-line"></div>
                 </div>
-                <div className="row justify-content-center">
+                <div className="row justify-content-center" style={{fontFamily: "Vujahday Script"}}>
                     <Portfolio6 />
                     <Portfolio5 />
                     <Portfolio4 />
