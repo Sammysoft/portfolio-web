@@ -8,7 +8,7 @@ const portfolio2 =()=>{
                             <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img className="img-fluid" src="assets/images/pics4.jpeg" alt="..." style={{height: "260px", Width: "100%"}}/>
+                            <img className="img-fluid" src="assets/images/port[4].jpg" alt="..." style={{height: "260px", Width: "100%"}}/>
                         </div>
                     </div>
 
@@ -29,7 +29,7 @@ const portfolio2 =()=>{
                                         <div className="divider-custom-line"></div>
                                     </div>
 
-                                    <img className="img-fluid rounded mb-5" src="assets/images/pics4.jpeg" alt="..." />
+                                    <img className="img-fluid rounded mb-5" src="assets/images/port[4].jpeg" alt="..." />
 
                                     <p className="mb-4">It is a Blesing for one to sleep at night and wake up the following day knowing for sure that someone is got your back. Life Should be that simple and easy. Such is the plans for the people of Benue State and Nigeria at large</p>
                                     <button className="btn btn-primary" href="#!" data-bs-dismiss="modal">
