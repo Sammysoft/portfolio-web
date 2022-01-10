@@ -8,7 +8,7 @@ const portfolio4=()=>{
                             <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img className="img-fluid" src="assets/images/port[5].jpeg" alt="..." style={{height: "260px", Width: "100%"}}/>
+                            <img className="img-fluid" src="assets/images/port[5].png" alt="..." style={{height: "260px", Width: "100%"}}/>
                         </div>
                     </div>
 
@@ -29,7 +29,7 @@ const portfolio4=()=>{
                                         <div className="divider-custom-line"></div>
                                     </div>
 
-                                    <img className="img-fluid rounded mb-5" src="assets/images/port[5].jpeg" alt="..." />
+                                    <img className="img-fluid rounded mb-5" src="assets/images/port[5].png" alt="..." />
 
                                     <p className="mb-4">The Policy set for the citizens of Benue State is one geared towards improving the standard of livelyhood. An Achievable means of sustainability both for the young and old alike.</p>
                                     <button className="btn btn-primary" href="#!" data-bs-dismiss="modal">
